@@ -1,6 +1,9 @@
 # CV Builder
 A CV builder with similar functionalities to Zety, the resume maker website.
 
+[Demo](https://serey-roth-cv-builder.netlify.app)
+[Zety](https://zety.com/resume-builder)
+
 ## Why
 I started this project by following the instructions listed 
 in The Odin Project's CV builder assignment. However, I was later
